@@ -5,4 +5,5 @@ Templates and designs from youtube
 created with HTML,CSS and javascript
 
 
-1 Cars dealeship website
+1 cars dealeship website
+2 shoes e-comm website
